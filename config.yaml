@@ -1,0 +1,11 @@
+channels: [
+  "pizzaandproperty1246",
+  "binvested",
+  "pumpedonproperty",
+  "AusPropertyRedom",
+  "auspropertystrategy"
+]
+num_videos: 5
+download_dir: "transcripts"
+collection_name: "transcripts"
+dense_model: "all-MiniLM-L6-v2"
